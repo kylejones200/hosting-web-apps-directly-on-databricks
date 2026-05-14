@@ -1,7 +1,7 @@
 # Hosting Web Apps Directly on Databricks
 
-**Published:** 2025-09-18
-**Medium:** [https://medium.com/@kyle-t-jones/hosting-web-apps-directly-on-databricks-e932b7400c0c](https://medium.com/@kyle-t-jones/hosting-web-apps-directly-on-databricks-e932b7400c0c)
+Published: 2025-09-18
+Medium: [https://medium.com/@kyle-t-jones/hosting-web-apps-directly-on-databricks-e932b7400c0c](https://medium.com/@kyle-t-jones/hosting-web-apps-directly-on-databricks-e932b7400c0c)
 
 ## About
 

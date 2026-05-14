@@ -21,10 +21,10 @@ Here's how the architecture looks when you host apps alongside your data:
 The presentation tier can still be external, but the application tier now runs in the same secure environment as the data. That means no raw data leaves Databricks.
 
 ### Why Host Apps on Databricks
-- **Lower Latency**: Apps can query and score models without hopping between environments.
-- **Simplified Security**: Unity Catalog policies apply across data and application access.
-- **Faster Development**: Streamlit, Flask, or Dash apps can run directly in Databricks notebooks or Jobs.
-- **Operational Resilience**: Apps inherit Databricks' cloud-scale reliability and failover.
+- Lower Latency: Apps can query and score models without hopping between environments.
+- Simplified Security: Unity Catalog policies apply across data and application access.
+- Faster Development: Streamlit, Flask, or Dash apps can run directly in Databricks notebooks or Jobs.
+- Operational Resilience: Apps inherit Databricks' cloud-scale reliability and failover.
 
 ### Example: Fraud Detection Dashboard
 Let's walk through a simple example. Imagine a bank that wants to monitor transactions in real time.
