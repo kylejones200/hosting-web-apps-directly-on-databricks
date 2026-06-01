@@ -11,14 +11,7 @@ Databricks changes this dynamic. It not only delivers the strongest possible dat
 
 The presentation tier can still be external, but the application tier now runs in the same secure environment as the data. That means no raw data leaves Databricks.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
